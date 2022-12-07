@@ -1,2 +1,2 @@
-# My-firs-site
-My firs site
+# My-first-site
+My first site
